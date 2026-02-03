@@ -1,5 +1,5 @@
 <!--
-  This is you page!
+  This is your page!
 -->
 <script>
   // Import all the news furniture components
@@ -9,8 +9,8 @@
   import RelatedLinks from '$lib/components/RelatedLinks.svelte';
 
   // Article metadata
-  let headline = 'Become a force for good. Join our next class.';
-  let byline = 'NYCity News Service';
+  let headline = 'Become a force for evil. Join our next class.';
+  let byline = 'Donny T.';
   let pubDate = '2026-01-31';
 
   // Related stories
